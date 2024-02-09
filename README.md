@@ -1,3 +1,3 @@
 # devops-lab
 
-  A repository of prjects created in DevOps Lab
+  A repository of projects created in DevOps Lab
